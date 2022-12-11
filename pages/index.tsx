@@ -19,7 +19,7 @@ export default function Home() {
                   _ACastillo
                 </h1>
               </div>
-              <h2 className="mb-4 font-bold text-xl	">Web Developer</h2>
+              <h2 className="mb-4 font-bold text-xl mr-4	">Web Developer</h2>
             </div>
           </div>
         </header>
